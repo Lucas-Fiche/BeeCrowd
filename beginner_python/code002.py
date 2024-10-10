@@ -1,5 +1,5 @@
-A = int(input(""))
-B = int(input(""))
-X = A + B
+n = 3.14159
+R = float(input(""))
+A = n * R**2
 
-print("X = {}".format(X))
+print("A={:.4f}".format(A))
