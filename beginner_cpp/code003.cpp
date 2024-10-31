@@ -1,17 +1,17 @@
 #include <iostream>
-#include <iomanip>
 using namespace std;
 
-int main(){
-
-    double n = 3.14159;
-    double R;
-    cin >>  R;
-    double A = n*R*R;
-
+int main() {
+ 
+    int num1;
+    int num2;
     
-    cout << fixed << setprecision(4);
-    cout << "A=" << A << endl;
-
+    cin >> num1;
+    cin >> num2;
+    
+    int SOMA = num1 + num2;
+    
+    cout << "SOMA = " << SOMA << endl;
+ 
     return 0;
 }

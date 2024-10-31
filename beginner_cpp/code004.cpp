@@ -1,17 +1,16 @@
 #include <iostream>
+
 using namespace std;
 
-int main() {
- 
-    int num1;
-    int num2;
+int main(){
+
+    int n1 = 0, n2 = 0;
+    cin >> n1;
+    cin >> n2;
     
-    cin >> num1;
-    cin >> num2;
-    
-    int SOMA = num1 + num2;
-    
-    cout << "SOMA = " << SOMA << endl;
- 
+    int produto = n1 * n2;
+
+    cout << "PROD = " << produto << endl;  
+
     return 0;
 }

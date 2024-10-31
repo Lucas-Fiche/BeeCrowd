@@ -2,6 +2,16 @@
 using namespace std;
 
 int main(){
-    cout << "Hello World!" << endl;
+
+    int A;
+    int B;
+    
+
+    cin >> A;
+    cin >> B;
+
+    int X = A + B;
+
+    cout << "X = " << X << endl;
     return 0;
 }
