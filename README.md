@@ -56,6 +56,6 @@ Se você tiver sugestões, melhorias ou quiser relatar problemas, sinta-se à vo
     <li>🌐 BeeCrowd - Plataforma de Desafios (https://www.beecrowd.com.br/)</li>
     <li>📄 Documentação do Python (https://docs.python.org/3/)</li>
     <li>📚 Documentação do Java (https://docs.oracle.com/en/java/)</li>
-🔗 Documentação do C++ (https://www.w3schools.com/cpp/default.asp)
+    <li>🔗 Documentação do C++ (https://www.w3schools.com/cpp/default.asp)</li>
 </ul>
 
