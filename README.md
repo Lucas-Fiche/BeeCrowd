@@ -15,15 +15,12 @@ O repositório está organizado por linguagem e dentro de cada pasta, você enco
 │   ├── code002.py
 │   ├── code003.py
 │   └── codeXYZ.py
-│  
-│     
 │
 ├── beginner_java/
 │   ├── Code001.java
 │   ├── Code002.java
 │   ├── Code003.java
 │   └── CodeXYZ.java
-│
 │
 └── beginner_cpp/
     ├── README.md
